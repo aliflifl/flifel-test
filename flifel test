@@ -1,0 +1,3 @@
+git clone https://github.com/Irtazaha/Gap.git 
+cd Gap 
+python Gap.py
